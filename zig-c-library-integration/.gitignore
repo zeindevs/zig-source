@@ -8,3 +8,8 @@ zig-out
 *.lib
 *.wasm
 *.o
+*.zip
+*.gz
+
+libsoundio
+vendor
